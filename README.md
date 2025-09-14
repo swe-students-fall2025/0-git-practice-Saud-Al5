@@ -5,3 +5,9 @@
 I found this article interesting because talking about the reality of work life balance for software engineers is very important and rarely talked about especially while studying computer science. How demanding and what you should do with deadlines and how to keep learning is talked about in this article and also ideas for how engineers can set limits and not get burnout. I liked that it showed the human side of being an engineer and showcases what you would encounter not just the technical work.
 
 We talked about this in lecture a little and because we are learning a lot about teamwork. These skills can help us reduce stress, which makes it easier for us to deliver projects we're proud of.
+
+### Reflection from Aayan
+
+I also found this article thought-provoking because work-life balance is something many students (and future engineers) don’t think about until they’re already overwhelmed. I agree that the human side of engineering is often overlooked, even though it directly affects productivity and creativity.  
+
+From my perspective, what stood out most was the idea of setting clear boundaries between work and personal life early. As students, we’re already juggling deadlines and projects, so building those habits now could make it easier to avoid burnout later in our careers.
